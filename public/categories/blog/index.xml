@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>blog on Tớ là EmptyBox</title>
+        <link>https://emptybox.dev/categories/blog/</link>
+        <description>Recent content in blog on Tớ là EmptyBox</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>vi</language>
+        <lastBuildDate>Thu, 07 Dec 2023 09:09:32 +0700</lastBuildDate><atom:link href="https://emptybox.dev/categories/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Khai bút trang blog của mình</title>
+        <link>https://emptybox.dev/posts/1/</link>
+        <pubDate>Thu, 07 Dec 2023 09:09:32 +0700</pubDate>
+        
+        <guid>https://emptybox.dev/posts/1/</guid>
+        <description>&lt;h1 id=&#34;khai-bút-trang-blog-của-mình&#34;&gt;Khai bút trang blog của mình&lt;/h1&gt;
+&lt;p&gt;Xin chào các bạn&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Khai bút trang blog của mình 1</title>
+        <link>https://emptybox.dev/posts/2/</link>
+        <pubDate>Thu, 07 Dec 2023 09:09:32 +0700</pubDate>
+        
+        <guid>https://emptybox.dev/posts/2/</guid>
+        <description>&lt;h1 id=&#34;khai-bút-trang-blog-của-mình&#34;&gt;Khai bút trang blog của mình&lt;/h1&gt;
+&lt;p&gt;Xin chào các bạn&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

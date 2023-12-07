@@ -1,0 +1,7 @@
+baseURL = 'https://emptybox.dev/'
+languageCode = 'vi'
+title = 'Tớ là EmptyBox'
+theme = 'hugo-theme-stack'
+[taxonomies]
+  category = "categories"
+  tag = "tags"
